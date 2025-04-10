@@ -75,6 +75,6 @@ This dataset and analysis are publicly available for research and educational pu
 ## 📧 Contact
 For any queries or collaboration opportunities:
 
-Email: [your-email@example.com]
+Email: [syedshanawazz786@gmail.com]
 
-GitHub Profile: https://github.com/your-username
+GitHub Profile: https://github.com/shanawazz-web
